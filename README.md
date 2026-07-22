@@ -37,10 +37,10 @@ npx n8n
 
 Acesse a interface em `http://localhost:5678`.
 
-**Opção 2 — via instalação global com npm (versão fixa):**
+**Opção 2 — via instalação global com npm (versão next/pré-lançamento):**
 
 ```bash
-npm install -g n8n@0.126.1
+npm install -g n8n@next
 n8n
 ```
 
