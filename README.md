@@ -37,7 +37,16 @@ npx n8n
 
 Acesse a interface em `http://localhost:5678`.
 
-**Opção 2 — via Docker Compose (recomendado, com persistência):**
+**Opção 2 — via instalação global com npm:**
+
+```bash
+npm install n8n -g
+n8n
+```
+
+Acesse a interface em `http://localhost:5678`.
+
+**Opção 3 — via Docker Compose (recomendado, com persistência):**
 
 ```bash
 cp .env.example .env
