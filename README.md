@@ -48,6 +48,12 @@ n8n start
 
 Acesse a interface em `http://localhost:5678`.
 
+Para atualizar a instalação global:
+
+```bash
+npm update -g n8n
+```
+
 **Opção 3 — via Docker Compose (recomendado, com persistência):**
 
 ```bash
