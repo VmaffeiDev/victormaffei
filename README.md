@@ -42,6 +42,8 @@ Acesse a interface em `http://localhost:5678`.
 ```bash
 npm install -g n8n@next
 n8n
+# ou
+n8n start
 ```
 
 Acesse a interface em `http://localhost:5678`.
