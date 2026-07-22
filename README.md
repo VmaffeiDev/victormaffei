@@ -63,6 +63,16 @@ docker compose up -d
 
 Isso sobe o n8n com autenticação básica (usuário/senha definidos no `.env`) e persiste os workflows no volume `n8n_data`.
 
+**Nota — contribuindo com o core do n8n:** as opções acima cobrem apenas rodar o n8n como usuário final. Para desenvolver o próprio n8n (código-fonte), é necessário clonar o [monorepo oficial do n8n](https://github.com/n8n-io/n8n) (não este repositório) e usar seu workspace pnpm. Testar webhooks localmente nesse contexto normalmente exige dois terminais:
+
+```bash
+# Terminal 1: inicia o serviço de túnel cloudflared
+pnpm --filter n8n-containers services --services cloudflared
+
+# Terminal 2: inicia o n8n localmente
+pnpm dev
+```
+
 ---
 
 ## 📈 Objetivo
