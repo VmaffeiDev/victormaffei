@@ -25,6 +25,29 @@ Aplicativo mobile para gestão de leads no setor automotivo, com foco em organiz
 
 ---
 
+## 🔧 n8n (Automação de Workflows)
+
+Este repositório inclui um setup rápido para rodar o [n8n](https://n8n.io) localmente.
+
+**Opção 1 — via npx (rápido, sem persistência de dados):**
+
+```bash
+npx n8n
+```
+
+Acesse a interface em `http://localhost:5678`.
+
+**Opção 2 — via Docker Compose (recomendado, com persistência):**
+
+```bash
+cp .env.example .env
+docker compose up -d
+```
+
+Isso sobe o n8n com autenticação básica (usuário/senha definidos no `.env`) e persiste os workflows no volume `n8n_data`.
+
+---
+
 ## 📈 Objetivo
 
 Buscando minha primeira oportunidade como desenvolvedor para aplicar conhecimentos práticos, evoluir tecnicamente e contribuir com soluções reais.
