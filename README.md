@@ -1,39 +1,67 @@
-# 👋 Olá, eu sou o Victor!
+<h1 align="center">👋 Olá, eu sou o Victor!</h1>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Focado em Desenvolvimento (Node.js) e Mobile (React Native)  
-🔐 Interesse em Cibersegurança  
+<p align="center">
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
+  💻 Desenvolvimento Back-end (Node.js) e Mobile (React Native)<br>
+  🔐 Entusiasta de Cibersegurança
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-giuliano-coutinho-maffei-8102311a3">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:vmaffei.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tecnologias
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![React Native](https://img.shields.io/badge/React_Native-blue)
-![Git](https://img.shields.io/badge/Git-orange)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
 ---
 
 ## 🚀 Projetos
 
-🔹 **App Leads Automotivo** *(em desenvolvimento)*  
-Aplicativo mobile para gestão de leads no setor automotivo, com foco em organização, acompanhamento e conversão de clientes.
+### 🔹 App Leads Automotivo *(em desenvolvimento)*
 
-👉 Em breve disponível no GitHub
+Aplicativo mobile para gestão de leads no setor automotivo, com foco em
+organização, acompanhamento e conversão de clientes.
+
+- 📱 **Mobile:** React Native
+- ⚙️ **Back-end:** Node.js
+- 🗄️ **Dados:** SQL
+
+> 👉 Em breve disponível no GitHub
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VmaffeiDev&show_icons=true&hide_border=true&theme=default" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VmaffeiDev&layout=compact&hide_border=true&theme=default" alt="Linguagens mais usadas">
+</p>
 
 ---
 
 ## 📈 Objetivo
 
-Buscando minha primeira oportunidade como desenvolvedor para aplicar conhecimentos práticos, evoluir tecnicamente e contribuir com soluções reais.
+Buscando minha primeira oportunidade como desenvolvedor para aplicar
+conhecimentos práticos, evoluir tecnicamente e contribuir com soluções reais.
 
 ---
 
 ## 📫 Contato
 
-📧 Email: vmaffei.dev@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/victor-giuliano-coutinho-maffei-8102311a3  
-
----
+- 📧 **Email:** vmaffei.dev@gmail.com
+- 🔗 **LinkedIn:** [victor-giuliano-coutinho-maffei](https://www.linkedin.com/in/victor-giuliano-coutinho-maffei-8102311a3)
