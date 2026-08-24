@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Victor!
+# 👋 Olá, eu sou o Victor Maffei!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Focado em Desenvolvimento (Node.js) e Mobile (React Native)  
