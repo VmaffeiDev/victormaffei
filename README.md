@@ -21,16 +21,16 @@
 🔹 **App Leads Automotivo** *(em desenvolvimento)*  
 Aplicativo mobile para gestão de leads no setor automotivo, com foco em organização, acompanhamento e conversão de clientes.
 
-🔹ApetitFoodBot *(em desenvolvimento)* 
+🔹**ApetitFoodBot** *(em desenvolvimento)* 
 Bot de controle nutricional para funcionários atendidos pela Apetit.
 
-🔹LOJA K&C ( FINALIZADO )
+🔹**LOJA K&C** ( FINALIZADO )
 E-commerce de moda masculina, feminina e infantil com storefront premium, elementos 3D leves
 
-🔹NetHunter — Scanner de Portos e Detector de Serviços *(em desenvolvimento)* 
+🔹**NetHunter** — Scanner de Portos e Detector de Serviços *(em desenvolvimento)* 
 Ferramenta em Python para varredura de portas TCP e detecção simples de serviço provável por porta.
 
-🔹Aplicativo Squ4ttro Motors *(em desenvolvimento)* 
+🔹**Aplicativo Squ4ttro Motors** *(em desenvolvimento)* 
 Aplicativo Expo para iOS e Android com estoque pesquisavel, fotos reais dos veículos e contatos rápidos da Squ4ttro Motors.
 
 👉 Em breve disponível no GitHub
