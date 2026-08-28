@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Victor!</h1>
+<h1 align="center">👋 Olá, eu sou o Victor Maffei!</h1>
 
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
@@ -40,6 +40,25 @@ organização, acompanhamento e conversão de clientes.
 - 📱 **Mobile:** React Native
 - ⚙️ **Back-end:** Node.js
 - 🗄️ **Dados:** SQL
+
+### 🔹 ApetitFoodBot *(em desenvolvimento)*
+
+Bot de controle nutricional para funcionários atendidos pela Apetit.
+
+### 🔹 LOJA K&C *(finalizado)*
+
+E-commerce de moda masculina, feminina e infantil com storefront premium e
+elementos 3D leves.
+
+### 🔹 NetHunter — Scanner de Portas e Detector de Serviços *(em desenvolvimento)*
+
+Ferramenta em Python para varredura de portas TCP e detecção simples de serviço
+provável por porta.
+
+### 🔹 Aplicativo Squ4ttro Motors *(em desenvolvimento)*
+
+Aplicativo Expo para iOS e Android com estoque pesquisável, fotos reais dos
+veículos e contatos rápidos da Squ4ttro Motors.
 
 > 👉 Em breve disponível no GitHub
 
