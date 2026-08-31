@@ -1,51 +1,99 @@
-# 👋 Olá, eu sou o Victor Maffei!
+<div align="center">
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Focado em Desenvolvimento (Node.js) e Mobile (React Native)  
-🔐 Interesse em Cibersegurança  
+# 👋 Olá, eu sou Victor Maffei
 
----
+### Full Stack Developer • Node.js • React Native • Cybersecurity
 
-## 🛠️ Tecnologias
+[![GitHub](https://img.shields.io/badge/GitHub-VmaffeiDev-181717?style=for-the-badge&logo=github)](https://github.com/VmaffeiDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Maffei-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victor-giuliano-coutinho-maffei-8102311a3/)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![React Native](https://img.shields.io/badge/React_Native-blue)
-![Git](https://img.shields.io/badge/Git-orange)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
+</div>
 
 ---
 
-## 🚀 Projetos
+## 🧠 Sobre mim
 
-🔹 **App Leads Automotivo** *(em desenvolvimento)*  
-Aplicativo mobile para gestão de leads no setor automotivo, com foco em organização, acompanhamento e conversão de clientes.
+Sou estudante de Análise e Desenvolvimento de Sistemas, focado em transformar problemas reais em produtos de software.
 
-🔹**ApetitFoodBot** *(em desenvolvimento)* 
-Bot de controle nutricional para funcionários atendidos pela Apetit.
-
-🔹**LOJA K&C** ( FINALIZADO )
-E-commerce de moda masculina, feminina e infantil com storefront premium, elementos 3D leves
-
-🔹**NetHunter** — Scanner de Portos e Detector de Serviços *(em desenvolvimento)* 
-Ferramenta em Python para varredura de portas TCP e detecção simples de serviço provável por porta.
-
-🔹**Aplicativo Squ4ttro Motors** *(em desenvolvimento)* 
-Aplicativo Expo para iOS e Android com estoque pesquisavel, fotos reais dos veículos e contatos rápidos da Squ4ttro Motors.
-
-👉 Em breve disponível no GitHub
+- 🚀 Desenvolvimento Web e Mobile
+- ⚙️ Node.js, JavaScript e React Native
+- 🗄️ APIs, bancos de dados e integrações
+- 🔐 Interesse em Cibersegurança
+- 🤖 Automação e aplicações com IA
 
 ---
 
-## 📈 Objetivo
+## 🛠️ Stack
 
-Buscando minha primeira oportunidade como desenvolvedor para aplicar conhecimentos práticos, evoluir tecnicamente e contribuir com soluções reais.
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição |
+|---|---|
+| **LeadGuardianAI** | Plataforma para acompanhamento, distribuição e gestão inteligente de leads. |
+| **Squ4ttro Motors App** | Aplicativo mobile para estoque e atendimento automotivo. |
+| **K&C Store** | E-commerce moderno para moda masculina, feminina e infantil. |
+| **ApetitFoodBot** | Bot de automação e controle para atendimento nutricional. |
+| **NetHunter** | Scanner de portas TCP e detector de serviços. |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VmaffeiDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VmaffeiDev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🧊 3D Contributions
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contributions" />
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VmaffeiDev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
 ## 📫 Contato
 
-📧 Email: vmaffei.dev@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/victor-giuliano-coutinho-maffei-8102311a3  
+<div align="center">
+
+📧 **vmaffei.dev@gmail.com**  
+💼 **LinkedIn:** [Victor Maffei](https://www.linkedin.com/in/victor-giuliano-coutinho-maffei-8102311a3/)
+
+</div>
 
 ---
+
+<div align="center">
+
+### "Construindo soluções reais com código."
+
+</div>
