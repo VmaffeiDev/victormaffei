@@ -3,8 +3,8 @@
 # 👋 Olá, eu sou Victor Maffei
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=generosomm">
-    <img src="https://komarev.com/ghpvc/?username=generosomm&label=Profile%20views&color=00FFFF&style=flat-square" alt="generosomm's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=VmaffeiDev">
+    <img src="https://komarev.com/ghpvc/?username=VmaffeiDev&label=Profile%20views&color=00FFFF&style=flat-square" alt="VmaffeiDev's profile views" />
   </a>
 </p>
 
